@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2l+ZgCExbpXKPedD876SEC5+SSvhP7+N/gwPlsKE6+VqsZMMhxva0ozNeXZiuVv7iW/2bxQG6VVA/0hqP7ingQ==",
+  "dgSpecHash": "SnmvXdSe4AzAXcqFyWYM+n7zA78OKxatytvRJ9fc4GWwuhGkeoBEw2IRsFbxVAaTJr+091pcY//l0eGVXaCZvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\Yastr.Anastasia_Web6\\Yastr.Anastasia_Web6\\Yastr.Anastasia_Web6.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Yastr.Anastasia_Web6-main\\Yastr.Anastasia_Web6\\Yastr.Anastasia_Web6\\Yastr.Anastasia_Web6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
