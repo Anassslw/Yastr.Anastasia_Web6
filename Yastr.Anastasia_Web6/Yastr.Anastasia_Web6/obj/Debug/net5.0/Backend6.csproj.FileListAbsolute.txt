@@ -1,0 +1,298 @@
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\appsettings.Development.json
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\appsettings.json
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\bower.json
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\bundleconfig.json
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.deps.json
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.runtimeconfig.json
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.runtimeconfig.dev.json
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\ref\Backend6.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.Views.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.Views.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\EntityFramework.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Humanizer.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\Newtonsoft.Json.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\System.CodeDom.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\System.Data.SqlClient.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\System.Runtime.Caching.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.GeneratedMSBuildEditorConfig.editorconfig
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.AssemblyInfoInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.AssemblyInfo.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.MvcApplicationPartsAssemblyInfo.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorAssemblyInfo.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorAssemblyInfo.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\staticwebassets\Backend6.StaticWebAssets.Manifest.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\staticwebassets\Backend6.StaticWebAssets.xml
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\scopedcss\bundle\Backend6.styles.css
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.TagHelpers.input.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.TagHelpers.output.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorCoreGenerate.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Account\Lockout.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Details.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Create2.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Details.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Details.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Details.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Details.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Details.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Details.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Manage\ChangePassword.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Manage\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Mockups\AllForums.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Mockups\SingleForum.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Mockups\SingleTopic.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostAttachments\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostAttachments\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Details.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostComments\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostComments\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostComments\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Create.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Delete.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Details.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Edit.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorTargetAssemblyInfo.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorTargetAssemblyInfo.cs
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.Views.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.csproj.CopyComplete
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\ref\Backend6.dll
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.genruntimeconfig.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\ref\Backend6.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.pdb
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\appsettings.json
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\bower.json
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\bundleconfig.json
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.exe
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.deps.json
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.runtimeconfig.json
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\ref\Backend6.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.pdb
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.Views.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Backend6.Views.pdb
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.AssemblyInfo.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\staticwebassets\Backend6.StaticWebAssets.Manifest.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\staticwebassets\Backend6.StaticWebAssets.xml
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\scopedcss\bundle\Backend6.styles.css
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.TagHelpers.input.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.TagHelpers.output.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorCoreGenerate.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Account\Lockout.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Files\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Create2.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Folders\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumCategorys\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessageAttachments\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumMessages\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Forums\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\ForumTopics\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Manage\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Mockups\AllForums.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Mockups\SingleForum.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Mockups\SingleTopic.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostAttachments\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostAttachments\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostCategories\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostComments\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostComments\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\PostComments\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.RazorTargetAssemblyInfo.cs
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.Views.pdb
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.csproj.CopyComplete
+C:\Users\Acer\Desktop\931903.Abdirov.ildan.web.lab2.6\Weblab6\obj\Debug\net5.0\Backend6.genruntimeconfig.cache
